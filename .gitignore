@@ -1,0 +1,15 @@
+# Node-related
+node_modules/
+.env
+
+# Build outputs
+build/
+dist/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
